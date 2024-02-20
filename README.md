@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in Campus 42 Málaga<br>🤝 I’m looking for help with C<br>🌱 I’m currently learning C<br>💬 Ask me about Star Wars and military stuff<br>
+🔭 I’m currently studying in Campus 42 Málaga<br>🌱 I’m currently learning C and python<br>
 
 
 ## 🌐 Socials:
