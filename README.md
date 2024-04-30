@@ -4,7 +4,7 @@
 [![paromero's 42 stats](https://badge.mediaplus.ma/greenbinary/paromero?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## Mi progreso de 42:
-[42 Cursus](git@github.com:Kenobiiii/42_Cursus.git)
+[42 Cursus](https://github.com/Kenobiiii/42_Cursus.git)
 
 # 💻 Tech Stack:
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
