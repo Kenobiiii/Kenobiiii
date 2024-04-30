@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently studying in Campus 42 Málaga<br>🌱 I’m currently learning C and python<br>
+## ▪️ I'm student at [42 Málaga](https://www.42malaga.com/)
+[![paromero's 42 stats](https://badge.mediaplus.ma/greenbinary/paromero?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 ## 🌐 Socials:
