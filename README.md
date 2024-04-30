@@ -3,7 +3,7 @@
 ## ▪️ A student in [42 Málaga](https://www.42malaga.com/)
 [![paromero's 42 stats](https://badge.mediaplus.ma/greenbinary/paromero?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-# Mi progreso de 42 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVOA0D_iU_S7O3u_XcLh_ZTMQtGtza1LuYfHJapGl_A&s" alt="Mi progreso de 42" width="16" height="16">
+# Mi progreso de  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwVOA0D_iU_S7O3u_XcLh_ZTMQtGtza1LuYfHJapGl_A&s" alt="Mi progreso de 42" width="20" height="20">
 
 
 
