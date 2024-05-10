@@ -7,7 +7,7 @@
 [42 Cursus](https://github.com/Kenobiiii/42_Cursus.git)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenobiiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
