@@ -7,7 +7,7 @@
 [42 Cursus](https://github.com/Kenobiiii/42_Cursus.git)
 
 # 💻 Tech Stack:
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="40" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenobiiii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
