@@ -1,7 +1,7 @@
 <h1 align="center"> Hello there, I’m Pablo Romero 🙋🏻‍♂️ </h1>
 
 ## ▪️ A student in [42 Málaga](https://www.42malaga.com/)
-[![paromero's 42 stats](https://badge.mediaplus.ma/greenbinary/paromero?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![paromero's 42 stats]
 
 ## Mi progreso de 42:
 [42 Cursus](https://github.com/Kenobiiii/42_Cursus.git)
