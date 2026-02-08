@@ -6,9 +6,6 @@
 ## Mi progreso de 42:
 [42 Cursus](https://github.com/Kenobiiii/42_Cursus.git)
 
-## Mi progreso en TryHackMe:
-[![paromero's THM stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4829099)](https://tryhackme.com/p/thevossr20)
-
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,py,c++)](https://skillicons.dev)
 
