@@ -7,9 +7,7 @@
 [42 Cursus](https://github.com/Kenobiiii/42_Cursus.git)
 
 ## Mi progreso en TryHackMe:
-<a href="https://tryhackme.com/p/thevossr20">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thevossr20&repo=tryhackme" alt="TryHackMe Stats" />
-</a>
+[![paromero's THM stats](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4829099)](https://tryhackme.com/p/thevossr20)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=c,py,c++)](https://skillicons.dev)
